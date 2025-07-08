@@ -1,0 +1,16 @@
+@page "/Yay"
+@rendermode InteractiveServer
+
+<button class="btn btn-wardiyah" @onclick="moreYay">Click the button: 😡</button>
+<h2 role="status">Total yays:   @yays</h2>
+
+@code{
+    private int yays = 0;
+
+    [Parameter]
+    public int yayIncrementAmount {get; set;} = 1;
+    
+    private void moreYay(){
+        yays += yayIncrementAmount;
+    }
+}

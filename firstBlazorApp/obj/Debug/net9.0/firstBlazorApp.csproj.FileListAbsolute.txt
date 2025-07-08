@@ -64,8 +64,6 @@ c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\compressed\o0eq1dnfg6-notf2x
 c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\compressed\nus0b0lwhz-h1s4sie4z3.gz
 c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\compressed\08sxhcp3zh-63fj8s7r0e.gz
 c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\compressed\pecys99l01-0j3bgjxly4.gz
-c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\compressed\r8josiz9q9-zrjtk7svn0.gz
-c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\compressed\gdc0h3rtko-zrjtk7svn0.gz
 c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\staticwebassets.build.json
 c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\staticwebassets.build.json.cache
 c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\staticwebassets.development.json
@@ -76,3 +74,7 @@ c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\firstBlazorApp.pdb
 c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\firstBlazorApp.genruntimeconfig.cache
 c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\ref\firstBlazorApp.dll
 c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\compressed\ivcj31cs1b-zo2whdv6j9.gz
+c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\firstBlazorApp.sourcelink.json
+c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\scopedcss\Components\Pages\ToDoList.razor.rz.scp.css
+c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\compressed\r8josiz9q9-whnu7aaywt.gz
+c:\personalprojects\firstBlazorApp\obj\Debug\net9.0\compressed\gdc0h3rtko-whnu7aaywt.gz

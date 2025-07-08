@@ -8,4 +8,4 @@ will be home to coding problems and mini projects mostly.
 -----------------------------
 daily records below ⬇️
 
-7-7-2025 : grokking algorithms ch.1, exercises, binary search.
+7-7-2025 : grokking algorithms ch.1, exercises, binary search, making my first web app using Blazor

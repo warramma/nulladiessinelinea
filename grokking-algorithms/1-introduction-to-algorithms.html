@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>01 - introduction to algorithms</title>
+</head>
+<body>
+    <h1>01 - intro to algorithms</h1>
+    <h2>binary search</h2>
+    <p>halving and halving a sorted list.</p>
+    <p>100 numbers, takes you 7 tries to guess the number I'm thinking of...why?</p>
+    <p>Rambling: log base 2 (100)? how many powers of 2 in 100? 2^5 is 32, 2^6 is 64, 2^7 is 108. ah, so 7 ish halves in 100.</p>
+
+    <h3>binary search practice</h3>
+    <pre>
+        <code class="code-blk1">
+        </code>
+    </pre>
+
+    <h4> exercises </h4>
+    <ol>
+        <li>Suppose you have a sorted list of 128 names, and you’re searching through it using binary search. What’s the maximum number of steps it would take? - log base 2 of 128 which isss exactly 7 steps!!</li>
+        <li>Suppose you double the size of the list. What’s the maximum number of steps now? - 8! (2^7 * 2)</li>
+    </ol>
+
+    <h3> Big O! </h3>
+    <p>worst case scenario.</p>
+    <h4>exercises</h4>
+    <p>Give the run time for each of these scenarios in terms of big O.</p>
+    <ol>
+        <li>You have a name, and you want to find the person's phone number in the phone book - log(n)</li>
+        <li> You have a phone number, and you want to find the person’s name in the phone book.  - linear time</li>
+        <li>You want to read the numbers of every person in the phone book. - linear time</li>
+        <li>You want to read the numbers of just the As. - n/26 time so n time (no constants)</li>
+    </ol>
+</body>
+<script>
+    const codeBlk1 = document.querySelector(".code-blk1");
+
+    codeBlk1.innerText = `
+    def binarySearch(arr, value):
+        low = 0
+        high = len(arr) - 1
+
+        while low <= high:
+            mid = len(arr) // 2
+            if value == arr[mid]:
+                return "Found"
+            elif value < arr[mid]:
+                high = mid - 1
+            else
+                low = mid + 1
+
+    `
+</script>
+</html>

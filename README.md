@@ -1,4 +1,6 @@
-# nulladiessinelinea
+A record of never going a day without a line of code. 
+
+# nulla dies sine linea (of code)
 *Never a day without a line*
 
 i don't want to scare myself by putting too grand of a README here but this repo is record of daily coding.

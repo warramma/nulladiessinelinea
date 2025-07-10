@@ -21,3 +21,5 @@ i don't want to scare myself by putting too grand of a README here but this repo
 daily records below ⬇️
 
 7-7-2025 : grokking algorithms ch.1, exercises, binary search, making my first web app using Blazor
+7-8-2025: working on blazor app
+7-9-2025: binary search practice problems

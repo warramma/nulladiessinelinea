@@ -25,3 +25,5 @@ daily records below ⬇️
 - 7-9-2025: binary search practice problems
 - 7-10-2025: the binary tree grind
 - 7-11-2025: visual basic debugging (work)
+- 7-12-2025: binary tree practice
+- 7-13-2025: [learning about neural networks](https://github.com/warramma/BTT-Lab-Assignments/tree/main/Unit7-ImplementNeuralNetwork)

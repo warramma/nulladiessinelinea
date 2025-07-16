@@ -10,6 +10,10 @@ i don't want to scare myself by putting too grand of a README here but this repo
 ## Dependencies
 - Blazor
 - dotnet CLI
+- Tensorflow
+- Seaborn
+- Matplotlib
+- Pandas
 ## Languages Used
 - HTML
 - CSS

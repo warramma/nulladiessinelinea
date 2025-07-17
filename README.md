@@ -31,3 +31,6 @@ daily records below ⬇️
 - 7-11-2025: visual basic debugging (work)
 - 7-12-2025: binary tree practice
 - 7-13-2025: [learning about neural networks](https://github.com/warramma/BTT-Lab-Assignments/tree/main/Unit7-ImplementNeuralNetwork)
+- 7-14-2025: binary tree - count leaf nodes
+- 7-15-2025: train neural network to recognize handwriting
+- 7-16-2025: learn about migrations and updating a local databae, practice writing SQL queries 

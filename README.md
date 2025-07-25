@@ -34,3 +34,4 @@ daily records below ⬇️
 - 7-14-2025: binary tree - count leaf nodes
 - 7-15-2025: train neural network to recognize handwriting
 - 7-16-2025: learn about migrations and updating a local databae, practice writing SQL queries 
+- 7-17-25, 7-18, 7-19, 7-20, 7-21, 7-22, & 7-23 : a combination of machine learning and leetcode :)

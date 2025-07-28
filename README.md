@@ -35,4 +35,5 @@ daily records below ⬇️
 - 7-15-2025: train neural network to recognize handwriting
 - 7-16-2025: learn about migrations and updating a local databae, practice writing SQL queries 
 - 7-17-25, 7-18, 7-19, 7-20, 7-21, 7-22, & 7-23 : a combination of machine learning and leetcode :)
-- 7/24
+- 7-24 - adding a json column to a database, codefirst EF
+- 7-25-7-27: btt labs, coding practice (merge two sorted linked lists)

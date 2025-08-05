@@ -55,7 +55,7 @@ def merge_sorted_list(list1, list2):
     temp = head
     while list1.next or list2.next:
         if list1.val < list2.val:
-                temp.val = list1.val
+                temp.val = list1.val    
                 temp.next = ListNode()
                 temp = temp.next
         else:

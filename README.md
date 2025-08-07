@@ -1,6 +1,6 @@
+# nulla dies sine linea
 A record of never going a day without a line of code. 
 
-# nulla dies sine linea (of code)
 *Never a day without a line*
 
 i don't want to scare myself by putting too grand of a README here but this repo is record of daily coding.
@@ -38,3 +38,4 @@ daily records below ⬇️
 - 7-24 - adding a json column to a database, codefirst EF
 - 7-25-7-27: btt labs, coding practice (merge two sorted linked lists)
 - 7-28-25: .aspx to host .ascx so i can put .aspx in iframe
+- 7-29-25 to 8-6-2025: improving my personal site, leetcoding, and wrapping up BTT

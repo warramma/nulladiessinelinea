@@ -39,3 +39,4 @@ daily records below ⬇️
 - 7-25-7-27: btt labs, coding practice (merge two sorted linked lists)
 - 7-28-25: .aspx to host .ascx so i can put .aspx in iframe
 - 7-29-25 to 8-6-2025: improving my personal site, leetcoding, and wrapping up BTT
+- finished up my internship :) 

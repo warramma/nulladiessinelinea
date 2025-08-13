@@ -40,3 +40,4 @@ daily records below ⬇️
 - 7-28-25: .aspx to host .ascx so i can put .aspx in iframe
 - 7-29-25 to 8-6-2025: improving my personal site, leetcoding, and wrapping up BTT
 - finished up my internship :) 
+- 8-7-2025 to 8-12-2025: updating readmes for BTT projects, neetcoding :)

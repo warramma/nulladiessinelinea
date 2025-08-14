@@ -41,3 +41,4 @@ daily records below ⬇️
 - 7-29-25 to 8-6-2025: improving my personal site, leetcoding, and wrapping up BTT
 - finished up my internship :) 
 - 8-7-2025 to 8-12-2025: updating readmes for BTT projects, neetcoding :)
+- 8-13-2025: R&D for ai studio 

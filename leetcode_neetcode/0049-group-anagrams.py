@@ -19,10 +19,4 @@ class Solution(object):
                 frequency_dict[letter_tuple] = [item]
             
 
-        return list(frequency_dict.values())
-
-        
-        
-        
-        anagram_list = [x for x in anagram_dict]
-        
+        return list(frequency_dict.values())    

@@ -27,3 +27,19 @@ print(isPalindrome("banana"))
 
 # Input: s = "race a car"
 # Output: false
+
+
+
+#alternate solution - two pointers
+def isPalindromeTwoPointer(s):
+    front = 0
+    s = "".join([char.lower() for char in s if char.isalnum()])
+    print(s)
+    end = len(s) - 1
+    while end > front:
+        if s[front] != s[end]:
+            return False
+        else:
+            front += 1
+            end -= 1
+    return True

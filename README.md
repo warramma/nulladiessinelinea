@@ -43,3 +43,4 @@ daily records below ⬇️
 - 8-7-2025 to 8-12-2025: updating readmes for BTT projects, neetcoding :)
 - 8-13-2025: R&D for ai studio 
 - 8-14 to 8-18-25: reviewing arrays and two pointers and feeling silly 
+- 8-19 to 8-22-25: changing my approach to application first, slow progress is better than none :)

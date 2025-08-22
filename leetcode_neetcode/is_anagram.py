@@ -1,3 +1,5 @@
+#O(n+m) solution time and space complexity
+#uses frequency dictionaries.
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
         s_dict = {}

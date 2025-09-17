@@ -33,7 +33,7 @@ daily records below ⬇️
 - 7-13-2025: [learning about neural networks](https://github.com/warramma/BTT-Lab-Assignments/tree/main/Unit7-ImplementNeuralNetwork)
 - 7-14-2025: binary tree - count leaf nodes
 - 7-15-2025: train neural network to recognize handwriting
-- 7-16-2025: learn about migrations and updating a local databae, practice writing SQL queries 
+- 7-16-2025: learn about migrations and updating a local database, practice writing SQL queries 
 - 7-17-25, 7-18, 7-19, 7-20, 7-21, 7-22, & 7-23 : a combination of machine learning and leetcode :)
 - 7-24 - adding a json column to a database, codefirst EF
 - 7-25-7-27: btt labs, coding practice (merge two sorted linked lists)
@@ -44,3 +44,5 @@ daily records below ⬇️
 - 8-13-2025: R&D for ai studio 
 - 8-14 to 8-18-25: reviewing arrays and two pointers and feeling silly 
 - 8-19 to 8-22-25: changing my approach to application first, slow progress is better than none :)
+When you code in school and forget to commit daily 😅
+- 9-17-25: Creating a zombie process, orphan child process, and printing exit status. 
